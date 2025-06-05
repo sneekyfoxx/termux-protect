@@ -14,12 +14,12 @@
 git clone https://github.com/sneekyfoxx/termux-protect ~/
 
 # Simple Approach
-# cd ~/termux-protect
-# ./termux-protect.sh help
+cd ~/termux-protect
+./termux-protect.sh help
 
 # Recommended Approach
-# cp -r ./termux-protect.sh ~/.local/bin/termux-protect
-# termux-protect help
+cp -r ./termux-protect.sh ~/.local/bin/termux-protect
+termux-protect help
 ```
 
 
